@@ -1,5 +1,5 @@
 # Inference
-The inference engine for Giants
+The inference engine for Giants (driven by GPT4 and RAG!)
 
 ## Install Poetry
 
